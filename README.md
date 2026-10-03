@@ -12,6 +12,7 @@ A high-concurrency transaction validation and ingestion microservice engineered 
 ## 🚀 Live Demo & Documentation
 * **Interactive Swagger UI:** [transact-pulse-engine.onrender.com/swagger-ui.html](https://transact-pulse-engine.onrender.com/swagger-ui.html)
 * **Health Endpoint:** [transact-pulse-engine.onrender.com/api/v1/transactions/health](https://transact-pulse-engine.onrender.com/api/v1/transactions/health)
+* **Note:** Deployed on Render free tier; initial load may take 30–45s due to cold start.
 
 ---
 
